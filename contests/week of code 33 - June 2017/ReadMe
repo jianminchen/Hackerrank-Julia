@@ -1,0 +1,29 @@
+Week of code 33
+https://www.hackerrank.com/results/w33/jianminchen_fl
+
+I got my first gold medal, top 4% out of over 10,000 players. 
+
+Here are the detail of each algorithm:
+
+Twin Arrays
+Score         Test cases
+8.10          pass all 6 test cases
+
+Pattern Count
+Score         Test cases
+18            pass all 7 test cases
+
+Transform to Palindrome
+Score         Test cases
+27            pass all 14 test cases
+
+Palindrome table
+Score         Test cases
+50.76         pass all 0 - 41 test cases, only time out on test case 30
+
+Path matching
+Score         Test cases
+0.47          pass test case 0 and 1, and fail all other test cases from 2 - 23
+
+Ranking 348 out of 11825, top 4%, ratings 2083.58 from 1934.8
+
