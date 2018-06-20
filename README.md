@@ -21,7 +21,7 @@ https://github.com/jianminchen/Hackerrank-Julia/tree/master/2%20Silver%20medals
 
 3. Bronze medal (up to June 20, 2018, 7 Bronze medal)
 
-https://github.com/jianminchen/Hackerrank-Julia/tree/master/3%20Bronze%20medals
+https://github.com/jianminchen/Hackerrank-Julia/tree/master/7%20Bronze%20medals
 
 4. All contests I play
 
