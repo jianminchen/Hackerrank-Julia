@@ -1,4 +1,6 @@
 ﻿/*
+ code review on June 22, 2018
+ https://www.hackerrank.com/challenges/detect-whether-a-linked-list-contains-a-cycle/problem
   Detect loop in a linked list 
   List could be empty also
   Node is defined as 
