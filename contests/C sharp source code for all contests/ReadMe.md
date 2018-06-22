@@ -1,16 +1,3 @@
-I played the contest until the last moment. I did enjoy the contest, and I documented my play through coding blog:
+It is a good idea to put all algorithms I played on Hackerrank.com in one folder. It is much easy to look up what kind of algorithms I have been worked on. 
 
-http://juliachencoding.blogspot.com/search/label/Morgan%20Stanley%20campus%20codeathon%202017
-
-I love this blog to document my exeprience: 
-http://juliachencoding.blogspot.com/2017/11/the-great-game-of-galia.html
-
-Preparation is very important to play very well on the contest. Work on the problems early, give myself time to develop good ideas and thoughts. Do not wait last minute since it addes me extra stress. 
-
-I spent time after the contest to study various submissions on the algorithm: Order Strings. 
-http://juliachencoding.blogspot.com/search/label/Order%20string%20series
-
-I love the contest, I will come back to play more in short future. 
-
-
-
+There are over 75 algorithms I worked on. 
