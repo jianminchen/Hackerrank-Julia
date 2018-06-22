@@ -6,6 +6,10 @@ using System.Diagnostics;
 
 class Solution
 {
+    /// <summary>
+    /// code review on June 22, 2018
+    /// https://www.hackerrank.com/challenges/string-function-calculation/problem
+    /// </summary>
     public struct myTuple
     {
         public int originalIndex;

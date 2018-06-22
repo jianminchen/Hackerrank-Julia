@@ -3,6 +3,11 @@ using System.Collections.Generic;
 using System.IO;
 class Solution
 {
+    /// <summary>
+    /// code review - Julia June 22, 2018
+    /// https://www.hackerrank.com/challenges/reverse-shuffle-merge/problem
+    /// </summary>
+    /// <param name="args"></param>
     static void Main(String[] args)
     {
         //runTestCases(); 
