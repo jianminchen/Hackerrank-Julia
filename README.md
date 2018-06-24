@@ -29,4 +29,5 @@ https://github.com/jianminchen/Hackerrank-Julia/tree/master/contests
 
 5. Play for fun
 
-
+I also wrote an answer for 10 good things after play hackerrank contests. Here is the link on quora.com: 
+https://www.quora.com/profile/Jianmin-Chen/shares
