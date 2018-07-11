@@ -42,7 +42,7 @@ https://www.quora.com/How-can-I-overcome-the-difficulties-in-implementing-Data-S
 Those long hours fight I will remember my whole life:
 
 
-hat makes those contests so memorable in my life? 
+What makes those contests so memorable in my life? 
 
 I documented those experience through quora.com as an answer:
 
