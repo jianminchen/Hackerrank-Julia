@@ -42,9 +42,17 @@ https://www.quora.com/How-can-I-overcome-the-difficulties-in-implementing-Data-S
 Those long hours fight I will remember my whole life:
 
 
-One algorithm I spent over 14 hours scoring 0:
+hat makes those contests so memorable in my life? 
 
-one algorithm I spent over 10 hours scoring 0:
+I documented those experience through quora.com as an answer:
 
-one algorithm I spent over 10 hours scoring partial score:
+https://www.quora.com/How-can-I-overcome-the-difficulties-in-implementing-Data-Structures
 
+
+Those long hours fight I will remember my whole life:
+
+
+One algorithm I spent over 10 hours scoring 0:
+http://juliachencoding.blogspot.com/search/label/AorB
+
+http://juliachencoding.blogspot.com/2017/03/hackerrank-contests-performance-review.html
