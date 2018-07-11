@@ -53,6 +53,7 @@ Those long hours fight I will remember my whole life:
 
 
 One algorithm I spent over 10 hours scoring 0:
+
 http://juliachencoding.blogspot.com/search/label/AorB
 
 http://juliachencoding.blogspot.com/2017/03/hackerrank-contests-performance-review.html
