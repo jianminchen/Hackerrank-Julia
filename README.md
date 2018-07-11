@@ -31,3 +31,20 @@ https://github.com/jianminchen/Hackerrank-Julia/tree/master/contests
 
 I also wrote an answer for 10 good things after play hackerrank contests. Here is the link on quora.com: 
 https://www.quora.com/profile/Jianmin-Chen/shares
+
+What makes those contests so memorable in my life? 
+
+I documented those experience through quora.com as an answer:
+
+https://www.quora.com/How-can-I-overcome-the-difficulties-in-implementing-Data-Structures
+
+
+Those long hours fight I will remember my whole life:
+
+
+One algorithm I spent over 14 hours scoring 0:
+
+one algorithm I spent over 10 hours scoring 0:
+
+one algorithm I spent over 10 hours scoring partial score:
+
