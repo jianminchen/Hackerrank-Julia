@@ -41,17 +41,6 @@ https://www.quora.com/How-can-I-overcome-the-difficulties-in-implementing-Data-S
 
 Those long hours fight I will remember my whole life:
 
-
-What makes those contests so memorable in my life? 
-
-I documented those experience through quora.com as an answer:
-
-https://www.quora.com/How-can-I-overcome-the-difficulties-in-implementing-Data-Structures
-
-
-Those long hours fight I will remember my whole life:
-
-
 One algorithm I spent over 10 hours scoring 0:
 
 http://juliachencoding.blogspot.com/search/label/AorB
