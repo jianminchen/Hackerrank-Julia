@@ -17,34 +17,25 @@ I have to push myself hard to play contests and try to get another gold medal.
 
 The folder is called [Gold medal](https://github.com/jianminchen/Hackerrank-Julia/tree/master/Gold%20medal).
 
-2. Silver medal (so ar up to June 20, 2018, 2 Silver medal) 
+2. [Silver medal](https://github.com/jianminchen/Hackerrank-Julia/tree/master/Silver%20medals) (so ar up to June 20, 2018, 2 Silver medal) 
 
-https://github.com/jianminchen/Hackerrank-Julia/tree/master/Silver%20medals
+3. [Bronze medal](https://github.com/jianminchen/Hackerrank-Julia/tree/master/Bronze%20medals) (up to June 20, 2018, 8 Bronze medal)
 
-3. Bronze medal (up to June 20, 2018, 8 Bronze medal)
-
-https://github.com/jianminchen/Hackerrank-Julia/tree/master/Bronze%20medals
-
-4. All contests I play
-
-https://github.com/jianminchen/Hackerrank-Julia/tree/master/contests
+4. [All contests I play](https://github.com/jianminchen/Hackerrank-Julia/tree/master/contests)
 
 5. Play for fun
 
-I also wrote an answer for 10 good things after play hackerrank contests. Here is the link on quora.com: 
-https://www.quora.com/profile/Jianmin-Chen/shares
+I also wrote an answer for 10 good things after play hackerrank contests. [Here](https://www.quora.com/profile/Jianmin-Chen/shares) is the link on quora.com I share.  
 
 What makes those contests so memorable in my life? 
 
 I documented those experience through quora.com as an answer:
-
-https://www.quora.com/How-can-I-overcome-the-difficulties-in-implementing-Data-Structures
-
+[How can I overcome the difficulties in implementing data structures?](https://www.quora.com/How-can-I-overcome-the-difficulties-in-implementing-Data-Structures)
 
 Those long hours fight I will remember my whole life:
 
-One algorithm I spent over 10 hours scoring 0:
+One algorithm called [A or B](http://juliachencoding.blogspot.com/search/label/AorB) I spent over 10 hours scoring 0:
 
-http://juliachencoding.blogspot.com/search/label/AorB
+[Hackerrank contests performance review](http://juliachencoding.blogspot.com/2017/03/hackerrank-contests-performance-review.html) is one of blogs I documented my journey. 
 
-http://juliachencoding.blogspot.com/2017/03/hackerrank-contests-performance-review.html
+
